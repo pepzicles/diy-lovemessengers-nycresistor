@@ -1,8 +1,9 @@
 # NYC Resistor Workshop: Build Your Own IoT Love Messengers!
+**Saturday, Dec 21, 2024** 
 by Julia Daser and Pepi Ng
 <br>
 <br>
-Saturday, Dec 21, 2024. 
+
 
 ## This Github Page Contains
 1. [**3D models**](https://github.com/pepzicles/NYCResistor_LoveMessengers/tree/main/3D%20Models)) of the box encasing, the floor, and the hearts for 3D-printing
