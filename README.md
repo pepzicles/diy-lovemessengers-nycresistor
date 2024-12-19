@@ -1,8 +1,9 @@
 # NYC Resistor Workshop: Build Your Own IoT Love Messengers!
 **Saturday, Dec 21, 2024** 
+<br>
 by Julia Daser and Pepi Ng
 <br>
-<br>
+
 
 
 ## This Github Page Contains
@@ -14,12 +15,12 @@ by Julia Daser and Pepi Ng
 
 <br>
 
-## You attended our Siggraph workshop and want to use the Love Messengers at home?
+## You attended our  workshop and want to use the Love Messengers at home?
 To use the *Love Messengers* at home, you need to re-upload the code with your own WiFi name and Password. 
-Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/UploadCode_slides.pdf)
+Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions](ADD URL HERE)
 <br>
 <br>
-You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf))
+You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](ADD URL HERE))
 
 <br>
 
@@ -34,7 +35,7 @@ If you run into any issues, please reach out to us!! We would love to help
 <br>
 
 ## About 
-Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository in the SIGGRAPH workshop.
+Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository.
 <br>
 <br>
 <img src="Media/gif.gif" alt="demo" width="600"/>
