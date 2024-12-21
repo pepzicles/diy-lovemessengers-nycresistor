@@ -55,6 +55,12 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 <br>   
 <br>
 
+## Wire Diagram: 
+<img src="Media/Wirediagram.png" alt="demo" width="600"/>
+
+<br>   
+<br>
+
 ## Other Tools/ Equipment: 
 1. Pliers
 2. Wire Stripper
