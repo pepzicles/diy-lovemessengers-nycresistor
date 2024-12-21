@@ -11,7 +11,7 @@ by Julia Daser and Pepi Ng
 2. The [**Code**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/code.ino) for the ESP32 Microcontrollers
 3. The [**Class-Slides**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor.pdf)
 4. The Slides on [**How to Create a Database**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor_%20Slides%20DB.pdf)
-5. The Slides on [**How to Upload the ESP32 Code**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor_%20Slides%20Upload%20Code.pdf)
+5. The Slides on [**How to Upload the ESP32 Code**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor_%20Upload%20Code.pdf)
 
 <br>
 
