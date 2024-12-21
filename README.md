@@ -9,7 +9,7 @@ by Julia Daser and Pepi Ng
 ## This Github Page Contains
 1. [**3D models**](https://github.com/pepzicles/NYCResistor_LoveMessengers/tree/main/3D%20Models) of the box encasing, the floor, and the hearts for 3D-printing
 2. The [**Code**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/code.ino) for the ESP32 Microcontrollers
-3. The [**Class-Slides**]ADD URL HERE)
+3. The [**Class-Slides**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor.pdf)
 4. The Slides on [**How to Create a Database**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor_%20Slides%20DB.pdf)
 5. The Slides on [**How to Upload the ESP32 Code**](https://github.com/pepzicles/NYCResistor_LoveMessengers/blob/main/Slides/NYC%20Resistor_%20Slides%20Upload%20Code.pdf)
 
