@@ -1,4 +1,4 @@
-# [February 2025 Edition] of NYC Resistor Workshop!
+# February 2025 Edition of NYC Resistor Workshop!
 **Sunday, Feb 9th and 14th, 2025** 
 <br>
 by Julia Daser and Pepi Ng
