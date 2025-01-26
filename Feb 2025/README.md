@@ -3,7 +3,7 @@
 <br>
 by Julia Daser and Pepi Ng
 <br>
-Thank you Ayo Chaboi for your help 💕
+Thank you Aiyo Cheboi for your help 💕
 <br>
 
 
