@@ -1,7 +1,6 @@
 # 💖 Welcome to our Love Messengers Page 💖 NYC Resistor edition
 
 <img src="./Dec%202024/Media/gif.gif" alt="demo" width="600"/>
-<br>
 by Julia Daser and Pepi Ng
 <br>
 <br>
