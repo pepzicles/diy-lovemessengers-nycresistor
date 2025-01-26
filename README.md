@@ -12,8 +12,8 @@ participated in our workshops, provided valuable feedback, and helped host us.
 <br>
 
 Access all of your workshop materials here:
-## [September 2024 Workshop ❄️](./Sep%202024)
-## [January 2025 Workshop ❤️](./Jan%202025)
+### [September 2024 Workshop ❄️](./Sep%202024)
+### [January 2025 Workshop ❤️](./Jan%202025)
 
 
 <br>
