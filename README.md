@@ -9,13 +9,11 @@ participated in our workshops, provided valuable feedback, and helped host us.
 <br>
 🥰 Special thanks go out to Kari Love, Woody and NYC Resistor, Jonah and Katherine and Siggraph, Grace Park and Aiyo Cheboi!
 <br>
-<br>
 
 ## Access all of your workshop materials here:
 ### [December 2024 Workshop ❄️](./Dec%202024)
 ### [February 2025 Workshop ❤️](./Feb%202025)
 
-<br>
 <br>
 
 ## Contact us
