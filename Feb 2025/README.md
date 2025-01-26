@@ -2,7 +2,8 @@
 **Sunday, Feb 9th and 14th, 2025** 
 <br>
 by Julia Daser and Pepi Ng
-Thank you Ayo Chaboi
+<br>
+Thank you Ayo Chaboi for your help 💕
 <br>
 
 
