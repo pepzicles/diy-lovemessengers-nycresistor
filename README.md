@@ -2,7 +2,7 @@
 ### **NYC Resistor edition** 
 <br>
 <br>
-<img src="./Dec%202024Media/gif.gif" alt="demo" width="600"/>
+<img src="./Dec%202024/Media/gif.gif" alt="demo" width="600"/>
 <br>
 <br>
 by Julia Daser and Pepi Ng
