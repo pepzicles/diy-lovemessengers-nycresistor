@@ -4,11 +4,11 @@
 by Julia Daser and Pepi Ng
 <br>
 <br>
-This workshop is a community effort - thank you to all the lovely people that have supported the project, 
+👯‍♀️ This workshop is a community effort - thank you to all the lovely people that have supported the project, 
 participated in our workshops, provided valuable feedback, and helped host us. 
-
 <br>
-Special thanks go out to Kari Love, Woody and NYC Resistor, Jonah and Katherine and Siggraph, Grace Park and Aiyo Cheboi!
+<br>
+🥰Special thanks go out to Kari Love, Woody and NYC Resistor, Jonah and Katherine and Siggraph, Grace Park and Aiyo Cheboi!
 <br>
 
 
