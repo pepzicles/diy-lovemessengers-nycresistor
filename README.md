@@ -3,6 +3,9 @@
 <br>
 <br>
 <img src="./Dec%202024/Media/gif.gif" alt="demo" width="600"/>
+## About 
+Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository.
+
 <br>
 <br>
 by Julia Daser and Pepi Ng
@@ -31,12 +34,4 @@ If you run into any issues, please reach out to us!! We would love to help
 #### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
 #### Youtube: [@WormiCollective](https://www.youtube.com/@WormiCollective)
 
-<br>
-
-## About 
-Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository.
-<br>
-<br>
-<img src="./Dec%202024Media/gif.gif" alt="demo" width="600"/>
-<br>
 <br>
