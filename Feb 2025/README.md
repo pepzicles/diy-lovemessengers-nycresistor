@@ -4,7 +4,7 @@
 by Julia Daser and Pepi Ng
 <br>
 <br>
-Thank you Aiyo Cheboi for your help 💖
+Thank you Aiyo Cheboi for your help in prep work 💖
 Thank you Grace Park for the graphic design 💖
 <br>
 
