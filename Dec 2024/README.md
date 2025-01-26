@@ -1,4 +1,4 @@
-# February 2025 Edition NYC Resistor Workshop: Build Your Own IoT Love Messengers!
+# February 2025 Edition NYC Resistor Workshop!
 **Saturday, Dec 21, 2024** 
 <br>
 by Julia Daser and Pepi Ng
