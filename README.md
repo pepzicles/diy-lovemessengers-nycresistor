@@ -1,8 +1,6 @@
 # 💖 Welcome to our Love Messengers Workshop Page 💖
 ### **NYC Resistor edition** 
-<br>
 by Julia Daser and Pepi Ng
-<br>
 <br>
 👯‍♀️ This workshop is a community effort - thank you to all the lovely people that have supported the project, 
 participated in our workshops, provided valuable feedback, and helped host us. 
