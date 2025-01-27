@@ -42,7 +42,7 @@ If you run into any issues, please reach out to us!! We would love to help
 Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository.
 <br>
 <br>
-<img src="Media/gif.gif" alt="demo" width="600"/>
+<img src="Media/LoveMessengers.gif" alt="demo" width="600"/>
 <br>
 <br>
 
