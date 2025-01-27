@@ -1,5 +1,12 @@
 # February 2025 Edition of NYC Resistor Workshop!
 **Sunday, Feb 9th and 14th, 2025** 
+## About 
+Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository.
+<br>
+<br>
+<img src="Media/LoveMessengers.gif" alt="demo" width="600"/>
+<br>
+<br>
 <br>
 by Julia Daser and Pepi Ng
 <br>
@@ -36,13 +43,6 @@ If you run into any issues, please reach out to us!! We would love to help
 #### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
 #### Youtube: [@WormiCollective](https://www.youtube.com/@WormiCollective)
 
-<br>
-
-## About 
-Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository.
-<br>
-<br>
-<img src="Media/LoveMessengers.gif" alt="demo" width="600"/>
 <br>
 <br>
 
