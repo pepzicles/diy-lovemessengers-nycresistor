@@ -7,6 +7,7 @@ You can simply uninstall BRLTTY, but if people find the application useful, this
 ```
 sudo apt-get remove brltty
 ```
+I restarted my computer after doing this and the Ports link in Arduino was no longer greyed out. 
 
 # Arduino IDE not given permission for port access to compile
 
