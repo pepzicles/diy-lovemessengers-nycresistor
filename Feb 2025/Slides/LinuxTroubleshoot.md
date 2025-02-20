@@ -1,6 +1,7 @@
 # Arduino IDE not detecting port
 
-Contributed by Rhea Malviya ([@rheam97](https://github.com/rheam97))
+**Contributed by Rhea Malviya ([@rheam97](https://github.com/rheam97)) who attended our workshop @ NYC Resistor on 14 Feb!**
+
 
 Many Linux distros come with a BRLTTY application that allows people hard-of-sight to access the computer's text-based console through a braille display. These displays use a serial port to communicate with the computer, but it takes over all general purpose USB ports. This causes the port to not appear in the Arduino IDE ports list. You can read more [**here**](https://github.com/arduino/help-center-content/issues/155).
 
