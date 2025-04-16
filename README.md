@@ -1,4 +1,4 @@
-# 💖 Welcome to our Love Messengers Page 💖 NYC Resistor edition
+# 💖 Welcome to our Love Messengers Page, NYC Resistor edition
 
 <img src="./Feb 2025/Media/LoveMessengers.gif" alt="demo" width="600"/>
 
@@ -13,13 +13,13 @@ participated in our workshops, provided valuable feedback, and helped host us.
 <br>
 
 ## Access all of your workshop materials here:
-### [December 2024 Workshop ❄️](./Dec%202024)
-### [February 2025 Workshop ❤️](./Feb%202025)
+### [December 2024 Workshop](./Dec%202024)
+### [February 2025 Workshop](./Feb%202025)
 
 <br>
 
 ## Contact us
-We hope you guys had tons of fun building  DIY Love Messengers 💙🧡  <br>
+We hope you guys had tons of fun building  DIY Love Messengers<br>
 If you run into any issues, please reach out to us!! We would love to help
 <br>
 #### Email:  yiqing.ng@gmail.com
