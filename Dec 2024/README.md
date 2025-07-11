@@ -10,7 +10,7 @@ by Julia Daser and Pepi Ng
 1. [**3D models**](./3D%20Models) of the box encasing, the floor, and the hearts for 3D-printing
 2. The [**Code**](./code.ino) for the ESP32 Microcontrollers
 3. The [**Class-Slides**](https://docs.google.com/presentation/d/1tKyRhq-H0f7qh0r20IBgMoWx7r3AGBdcS3LCC1Dzuw8/edit?usp=sharing)
-4. The Slides on [**How to Create a Database**](https://docs.google.com/presentation/d/1zPSLw4Wz-GZKNYMVfDDKSwGD7ciGzl55iZsEPTTHffk/edit#slide=id.g2ef87a7d5d3_0_0)
+4. The Slides on [**How to Create a Database**](https://docs.google.com/presentation/d/10FOxatLn3-gEweiWu99C4iQXYU2SOc-pL6Ugw3TmIVk/edit?usp=sharing)
 5. The Slides on [**How to Upload the ESP32 Code**](https://docs.google.com/presentation/d/1itNOjG2VIbihmtBbmWOF_zTDMhbYNMa45zIEW7B6CLA/edit#slide=id.g2ef87a7d5d3_0_0)
 
 <br>
