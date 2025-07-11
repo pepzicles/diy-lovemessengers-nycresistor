@@ -22,7 +22,7 @@ Thank you Grace Park for the graphic design 💖
 2. The [**Code**](./code.ino) for the ESP8266 Microcontrollers
 3. The [**Class-Slides**](https://docs.google.com/presentation/d/1ocXh6diw_edAS3Q-rFSFNbqER26dfUnC6ZojbTQyBRY/edit?usp=sharing)
 4. The Slides on [**How to Create a Database**](https://docs.google.com/presentation/d/19Xh5I5hXMwRNAT6mXwnOo7upIBXxUXw2HIQn1awf7jE/edit?usp=sharing)
-5. The Slides on [**How to Upload the ESP8266 Code**](https://docs.google.com/presentation/d/1LtjJ1A2UF-neDaa2aErODWTvgGm7FnszxuaijPIQiqY/edit?usp=sharing)
+5. The Slides on [**How to Upload the ESP8266 Code**](https://docs.google.com/presentation/d/1gHVXxIc9Vdh47K_fa2g4CjRUR9ceTofEAE9G6XgcR_w/edit?usp=sharing)
 
 <br>
 
