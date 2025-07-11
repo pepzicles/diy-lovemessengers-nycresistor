@@ -28,7 +28,7 @@ Thank you Grace Park for the graphic design 💖
 
 ## You attended our  workshop and want to use the Love Messengers at home?
 To use the *Love Messengers* at home, you need to re-upload the code with your own WiFi name and Password. 
-Follow our instructions if you need a reminder on how to do so: [Instructions](https://docs.google.com/presentation/d/1LtjJ1A2UF-neDaa2aErODWTvgGm7FnszxuaijPIQiqY/edit?usp=sharing)
+Follow our instructions if you need a reminder on how to do so: [Instructions](https://docs.google.com/presentation/d/1gHVXxIc9Vdh47K_fa2g4CjRUR9ceTofEAE9G6XgcR_w/edit?usp=sharing)
 <br>
 <br>
 You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://docs.google.com/presentation/d/1a_2duaqs7iLQxJ0YRQL2W0tEB2cOFd3lxEb4I4ITkuo/edit?usp=sharing).
