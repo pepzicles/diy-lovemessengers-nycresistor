@@ -31,7 +31,7 @@ To use the *Love Messengers* at home, you need to re-upload the code with your o
 Follow our instructions if you need a reminder on how to do so: [Instructions](https://docs.google.com/presentation/d/1gHVXxIc9Vdh47K_fa2g4CjRUR9ceTofEAE9G6XgcR_w/edit?usp=sharing)
 <br>
 <br>
-You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://docs.google.com/presentation/d/1a_2duaqs7iLQxJ0YRQL2W0tEB2cOFd3lxEb4I4ITkuo/edit?usp=sharing).
+You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://docs.google.com/presentation/d/19Xh5I5hXMwRNAT6mXwnOo7upIBXxUXw2HIQn1awf7jE/edit?usp=sharing).
 
 <br>
 
