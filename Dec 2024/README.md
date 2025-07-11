@@ -11,7 +11,7 @@ by Julia Daser and Pepi Ng
 2. The [**Code**](./code.ino) for the ESP32 Microcontrollers
 3. The [**Class-Slides**](https://docs.google.com/presentation/d/1tKyRhq-H0f7qh0r20IBgMoWx7r3AGBdcS3LCC1Dzuw8/edit?usp=sharing)
 4. The Slides on [**How to Create a Database**](https://docs.google.com/presentation/d/19Xh5I5hXMwRNAT6mXwnOo7upIBXxUXw2HIQn1awf7jE/edit?usp=sharing)
-5. The Slides on [**How to Upload the ESP32 Code**](https://docs.google.com/presentation/d/1itNOjG2VIbihmtBbmWOF_zTDMhbYNMa45zIEW7B6CLA/edit#slide=id.g2ef87a7d5d3_0_0)
+5. The Slides on [**How to Upload the ESP32 Code**](https://docs.google.com/presentation/d/10jpJMJF2ff4qg-6BC0tEkhLmOqasLfKd7yKnnkN3o50/edit?usp=sharing)
 
 <br>
 
